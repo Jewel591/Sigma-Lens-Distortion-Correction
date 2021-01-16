@@ -1,8 +1,8 @@
 # Sigma-Lens-Distortion-Correction
 
-Sigma 镜头畸变校正配置自动化脚本 | macOS
+*Sigma 镜头畸变校正配置自动化脚本 | macOS*
 
-- **Sigma 30mm F1.4 DC DN C016 | Sony ** 
+### 镜头：Sigma 30mm F1.4 DC DN C016 | Sony 
 
 1. 打开 Mac 终端，复制以下命令执行：
 ```
